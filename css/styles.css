@@ -30,7 +30,6 @@ h1, h3, h6 {
     width: 25%;
     padding: 16px;
     background-color: white;
-
 }
 
 /* Full-width input fields */
@@ -71,8 +70,15 @@ h6 {
     padding: -4px;
 }
 
-footer {
+/* footer {
     background-color: rgb(300, 168, 60);
     margin: -8px;
     margin-top: -26px;
+} */
+
+footer {
+    margin: -8px;
+    margin-top: -26px;
+    position: relative;
+    bottom: 40px;
 }
